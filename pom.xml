@@ -21,4 +21,14 @@
 			</plugin>
 		</plugins>
 	</build>
+	<repository>
+                 <id>org74</id>
+                      <url>https://pkgs.dev.azure.com/org74/_packaging/org74/maven/v1</url>
+                        <releases>
+                           <enabled>true</enabled>
+                        </releases>
+                        <snapshots>
+                           <enabled>true</enabled>
+                       </snapshots>
+         </repository>
 </project>
